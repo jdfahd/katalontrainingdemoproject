@@ -21,5 +21,5 @@ WebUI.delay(7)
 
 WebUI.delay(5)
 
-WebUI.acceptAlert()
+WebUI.delay(0)
 

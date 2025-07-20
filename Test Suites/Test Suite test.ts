@@ -19,7 +19,7 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>793c81ee-0328-4e0a-beb6-26dcdfe252fd</guid>
+      <guid>2ded243d-1df0-4fcf-80b1-5fd8854d6d22</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/test</testCaseId>

@@ -23,5 +23,7 @@ WebUI.navigateToUrl('127.0.0.1')
 
 WebUI.verifyTextPresent('It works!', false)
 
+WebUI.delay(0)
+
 WebUI.closeBrowser()
 
